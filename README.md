@@ -13,7 +13,7 @@ I'm a software engineer focused on building practical, end to end systems that s
 
 ---
 
-### ✍️ Random Dev Quote
+### 💬 Random Dev Quote
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
 </p>
