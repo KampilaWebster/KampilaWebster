@@ -3,7 +3,7 @@ I'm a software engineer focused on building practical, end to end systems that s
 
 ---
 
-### 🧰 Languages and Tools
+### 💡 Technologies I Use
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -19,3 +19,4 @@ I'm a software engineer focused on building practical, end to end systems that s
 </p>
 
 ---
+
